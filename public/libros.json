@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "titulo": "El nombre de la rosa",
+    "autor": "Umberto Eco",
+    "leido": false
+  },
+  {
+    "id": 2,
+    "titulo": "El Quijote",
+    "autor": "Miguel de Cervantes",
+    "leido": false
+  },
+  {
+    "id": 3,
+    "titulo": "El Hobbit",
+    "autor": "J. R. R. Tolkien",
+    "leido": true
+  }
+]
